@@ -1,0 +1,1 @@
+{"reset_type":"center_top","filter":{"0":0,"1":0,"2":0,"3":0,"4":0,"5":0,"6":1,"7":2,"8":4},"hor_sym":false,"ver_sym":false,"full_sym":false,"activation":"float activation(float x) {\n  if (x == 1. || x == 2. || x == 3.|| x == 4.){\n    return 1.;\n  }\n  return 0.;\n}\t\t","color":[0.5019607843137255,0.8862745098039215,1],"bg_color":"#000000","persistent":true}
